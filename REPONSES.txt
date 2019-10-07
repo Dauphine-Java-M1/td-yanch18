@@ -1,5 +1,6 @@
 YAN CHENGE
 Exercice 1
+...
 4. la version c'est 3.6
 5. groupId:cette balise permet d'identifier un groupe qui a créé le projet. Cette clé permet d'organiser et de retrouver plus facilement et rapidement le projet.
    artifactId:  cette balise indique un nom unique utilisé pour nommer les artifacts à construire.
