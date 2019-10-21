@@ -1,6 +1,7 @@
 YAN CHENGE
+
+**td00
 Exercice 1
-...
 4. la version c'est 3.6
 5. groupId:cette balise permet d'identifier un groupe qui a créé le projet. Cette clé permet d'organiser et de retrouver plus facilement et rapidement le projet.
    artifactId:  cette balise indique un nom unique utilisé pour nommer les artifacts à construire.
@@ -9,8 +10,23 @@ Exercice 1
 13. maven.compiler.target c'est pour compiler le source de projet: on doit lui donner la version de maven.
 
 Exercice 3
-3.c'est compléter le main dans le package  fr.dauphine.ja.nomprenom.td00
-4.il a complété le méthode toString
-5.
+3.il y a une erruer, et puis le methode System.out.println() est complete automatiquement.
+4.le méthode toString est complete automatiquement
+5.le main est complete automatiquement
 6.il affiche le méthode getToto et setToto directement, on peut le compléter facilement.
-7.c'est pour renommer(rename).
+7.c'est pour renommer(rename) le classe App et le champ toto.
+
+
+**td00bis
+Exercice 1
+5. les modifications sont affiche
+
+Exercice 2
+5. La modification apparaît dans le fichier REPONSES.txt du dépot git.
+6. le REPONSES.txt contient les reponse qui est modifie.
+7. les modifications ne peuvent pas etre accepte.
+
+Exercice3
+2. il affiche le resultat, on peut obtenir un resultat avec aucun echec.
+    si on modifie assertTrue(true) en assertTrue(false), il y a une erruer affiche 
+    c'est pour verifier si le resultat avec les parametre est vrai.
