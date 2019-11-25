@@ -1,0 +1,18 @@
+YAN CHENGE td1 
+###############
+Exercice 1
+1. le classe Point peut fonctionner, parce qu'il y a un constructeur par defaut, 
+2. le classe TestPoint ne fonctionne pas, parce que les variable sont privee. pour remedier ici, on doit ajouter les methode get et set.
+3. C'est tout le principe de l'encapsulation. Un attribut peut être utilisé dans le fonctionnement interne d'une classe et avoir à fournir sa valeur à d'autres sans pour autant permettre à ces dernières de la modifier. Dans ce cas tu n'écris qu'un getter et pas de setter.
+4. ce sont les fonctions qui permettre d'accéder aux données membres
+    oui, on doit le faire ici.
+5. il y a un probleme， le constructeur par defaut est toujour applee.
+6.
+7. on peut creer un compteur pour compter le nombre point
+
+Exercice 2
+8.Il a affiche "true false"
+   parce que p1 et p2 ont la meme adresse.
+9. il affiche 0 pour list.indexOf(p2) et il affiche -1 pour list.indexOf(p3)
+   parce que la position de p2 c'est 0, et il n'y a pas de position pour p3
+   
